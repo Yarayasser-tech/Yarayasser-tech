@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yarayasser-tech
+- 👋 Hi, I’m @yarayasser06
 - 👀 I’m interested in learning as much as i can about data science, IT, BigTech, and programming languages.
 - 🌱 I’m currently learning multiple programming languages incliding (CSS, C++, PYTHON, HTML,...)
 - 📫 You can reach me through my email: yarayassershaaban@gmail.com
